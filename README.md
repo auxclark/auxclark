@@ -28,8 +28,7 @@ const johnClark = {
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=auxclark&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=1a1a1a)
-  ![Years Badge](https://badges.pufler.dev/years/auxclark?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)
-  ![Repos Badge](https://badges.pufler.dev/repos/auxclark?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)
+
   
 </div>
 

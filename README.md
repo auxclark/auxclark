@@ -16,7 +16,7 @@
 
 ```typescript
 const johnClark = {
-    role: "Pioneer Software Developer",
+    role: "Software Engineer | Web Developer",
     company: "Dream PC Build & I.T. Solutions",
     passion: "Turning ideas into innovative digital solutions",
     mindset: "Driven by creativity and purpose",

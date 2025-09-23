@@ -125,24 +125,6 @@ goal: Next-gen point-of-sale solution
 
 ---
 
-##  **GitHub Analytics**
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=auxclark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=auxclark&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auxclark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=auxclark&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" width="48%" />
-  
-</div>
-
----
-
 ##  **Developer Playlist**
 
 <div align="center">

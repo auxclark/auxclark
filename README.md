@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated typing effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineering+Graduate;Pioneer+Software+Developer;Building+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineering+Graduate;Software+Developer;Building+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
   
   <!-- Glassmorphism-style card effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Welcome%20to%20my%20digital%20universe&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Where%20creativity%20meets%20innovation&descSize=16&descAlignY=51"/>

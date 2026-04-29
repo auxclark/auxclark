@@ -15,7 +15,7 @@
 ##  **About Me**
 
 ```typescript
-const johnClark = {
+const clarkins = {
     role: "Software Engineer | Web Developer",
     passion: "Turning ideas into innovative digital solutions",
     mindset: "Driven by creativity and purpose",
